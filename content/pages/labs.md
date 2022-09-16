@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lab assignments, supporting files, solutions,
+  and a description of the final project for the course.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
